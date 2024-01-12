@@ -1,0 +1,1 @@
+This Library is placed here to build up a supply of symbols for easier use of KiCAD.
